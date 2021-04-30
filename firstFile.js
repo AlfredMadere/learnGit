@@ -2,4 +2,5 @@
 
 //another comment
 const log = 'loggers';
+console.log(log);
 //another comment
